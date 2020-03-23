@@ -7,7 +7,8 @@ class MusicLibraryController
   end
   
   def call
-    input.gets
+    input.gets.chomp
+    if input ==
     "Welcome User"
   end
   
