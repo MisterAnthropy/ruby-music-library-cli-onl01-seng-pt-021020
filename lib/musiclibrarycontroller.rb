@@ -7,6 +7,7 @@ class MusicLibraryController
   end
   
   def call
+    input.gets
     "Welcome User"
   end
   
