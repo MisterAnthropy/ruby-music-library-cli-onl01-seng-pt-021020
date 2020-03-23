@@ -8,8 +8,9 @@ class MusicLibraryController
   
   def call
     input.gets.chomp
-    if input ==
-    "Welcome User"
+    if input != exit
+      
+    puts "Welcome User"
   end
   
   
