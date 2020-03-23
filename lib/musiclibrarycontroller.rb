@@ -6,13 +6,7 @@ class MusicLibraryController
     MusicImporter.new(path).import 
   end
   
-  def call
-    input = gets.strip
-    if input != exit
-      
-    puts "Welcome User"
-    end
-  end
+ 
   
   
 end
